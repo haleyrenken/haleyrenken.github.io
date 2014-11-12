@@ -7,3 +7,7 @@ p {
   font-weight: bold;
   width: 50%;
 }
+
+body {
+  background: url(<a href="http://imgur.com/jeDh0j9"><img src="http://i.imgur.com/jeDh0j9.jpg" title="source: imgur.com" /></a>);
+}
